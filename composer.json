@@ -2,6 +2,7 @@
     "name": "inesse/inespfe",
     "description": "this is our pfe for 222/2023",
     "type": "project",
+    "version": "1.0.0",
     "license": "MIT",
     "autoload": {
         "psr-4": {
