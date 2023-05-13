@@ -3,7 +3,7 @@
 
 class First{
     public function __construct(){
-        echo "hello";
+        echo "hello world";
     }
 }
 
