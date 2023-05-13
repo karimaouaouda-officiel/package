@@ -1,0 +1,12 @@
+{
+    "name": "ines/inespfe",
+    "description": "this is our pfe for 222/2023",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ines\\Inespfe\\": "src/"
+        }
+    },
+    "require": {}
+}
